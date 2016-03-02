@@ -224,12 +224,15 @@ a {
   width: 100%;
   overflow: auto;
   word-break: normal;
-  word-break: keep-all; }
+  word-break: keep-all;
+  align: center; }
   .main-content table th {
-    font-weight: bold; }
+    font-weight: bold;
+    align: center; }
   .main-content table th, .main-content table td {
     padding: 0.5rem 1rem;
-    border: 1px solid #e9ebec; }
+    border: 1px solid #e9ebec; 
+    align: center; }
 .main-content dl {
   padding: 0; }
   .main-content dl dt {
