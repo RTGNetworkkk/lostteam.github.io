@@ -1,2 +1,2 @@
-# lostteam.github.io
-Restarted from scratch...
+# [LostTeam.Github.io](http://lostteam.github.io)
+## The LostTeam Website
