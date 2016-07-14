@@ -106,6 +106,7 @@ a {
       margin-left: 0; } }
 
 .page-header {
+  box-shadow: 7px 7px 3px #666666;
   color: #fff;
   text-align: center;
   background: #ff4b1f;
