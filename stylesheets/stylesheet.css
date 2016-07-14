@@ -16,6 +16,7 @@ ul {
     overflow: hidden;
     border-radius: 7px;
     background-color: #0D47A1;
+    box-shadow: 7px 7px 3px #666666;
 }
 li {
     float: left;
@@ -106,7 +107,6 @@ a {
       margin-left: 0; } }
 
 .page-header {
-  box-shadow: 7px 7px 3px #666666;
   color: #fff;
   text-align: center;
   background: #ff4b1f;
