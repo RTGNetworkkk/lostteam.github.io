@@ -14,7 +14,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #2196F3;
+    background-color: #0D47A1;
 }
 li {
     float: left;
@@ -27,7 +27,7 @@ li a, .dropbtn {
     text-decoration: none;
 }
 li a:hover, .dropdown:hover .dropbtn {
-    background-color: #ff9068;
+    background-color: #ff4b1f;
 }
 li.dropdown {
     display: inline-block;
