@@ -15,7 +15,7 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color: #0D47A1;
-    box-shadow: 7px 7px 4px #888888;
+    box-shadow: 4px 4px 2px #888888;
 }
 li {
     float: left;
