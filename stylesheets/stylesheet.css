@@ -61,6 +61,11 @@ iframe {
   padding: 0;
   height: 100%; }
 
+.github-button {
+  position:absolute;
+  top:0;
+  right:0; }
+
 a {
   color: #2196F3;
   text-decoration: none; }
